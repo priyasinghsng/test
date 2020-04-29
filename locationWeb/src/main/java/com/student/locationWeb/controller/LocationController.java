@@ -18,6 +18,7 @@ import com.student.locationWeb.Service.LocationService;
 import com.student.locationWeb.util.EmailUtilImpl;
 import com.student.locationWeb.util.ReportUtil;
 
+// Controller for all Location API
 @Controller
 public class LocationController {
 	

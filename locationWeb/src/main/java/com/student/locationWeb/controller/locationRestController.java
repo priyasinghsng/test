@@ -16,6 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.student.locationWeb.Model.Location;
 import com.student.locationWeb.Repository.LocationRepository;
 
+//Restful controller
 @RestController
 @RequestMapping("/locations")
 public class locationRestController {
